@@ -15,4 +15,10 @@ Research and implementation project of the USB HID protocol to control and monit
 * **USB Buffering:** Use a 64-byte buffer for accurate and stable data transmission.
 
 ## 📸 Demo & Images
+<img width="753" height="509" alt="image" src="https://github.com/user-attachments/assets/251e19a4-1344-4d98-a416-d2b87ad30338" />
+<img width="722" height="420" alt="image" src="https://github.com/user-attachments/assets/710c3779-5e3c-4c4a-acc7-d22b27da1d3f" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/2919c849-0d29-4625-b383-6538c59a8416" />
+
+
+
 
